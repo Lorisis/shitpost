@@ -1,0 +1,620 @@
+Animation
+ChannelsBar
+MessageSender
+Util
+Whisper
+CommandModules
+FailureWaypoint
+ChatBar
+CurveUtil
+EndWaypoint
+ChatChannel
+TrailDot
+1.5, 1.5
+-0.100000001, 0.5
+0.100000001, 0.5
+0, 0.5
+0, 1
+0, 0.5
+Enum.AnimationPriority.Action
+AnimationPriority
+Enum.EasingStyle.Sine
+ClickToMoveDisplay
+CollectionService
+StarterGui
+Instance
+Enum.HumanoidStateType.FallingDown
+Enum.PathStatus.Success
+PathStatus
+Enum.PathWaypointAction.Jump
+Enum.PathWaypointAction.Walk
+PathWaypointAction
+ClickToMoveController
+TouchThumbstick
+GuiService
+Enum.EasingDirection.InOut
+Enum.ContextActionPriority.High
+Enum.ScreenOrientation.Portrait
+Enum.ScreenOrientation.LandscapeRight
+Enum.ScreenOrientation.LandscapeLeft
+ScreenOrientation
+DynamicThumbstick
+Gamepad
+BaseCharacterController
+Enum.PlayerActions.CharacterJump
+Enum.PlayerActions.CharacterRight
+Enum.PlayerActions.CharacterLeft
+Enum.PlayerActions.CharacterBackward
+Enum.PlayerActions.CharacterForward
+PlayerActions
+Keyboard
+Enum.UserInputType.Gamepad4
+Enum.UserInputType.Gamepad3
+Enum.UserInputType.Gamepad2
+Enum.UserInputType.Gamepad1
+Enum.UserInputType.MouseWheel
+Enum.UserInputType.MouseButton3
+Enum.UserInputType.MouseButton1
+Enum.UserInputType.Keyboard
+Enum.DevComputerMovementMode.ClickToMove
+Enum.DevComputerMovementMode.KeyboardMouse
+Enum.ComputerMovementMode.KeyboardMouse
+Enum.DevTouchMovementMode.ClickToMove
+Enum.TouchMovementMode.ClickToMove
+Enum.DevTouchMovementMode.Thumbstick
+Enum.TouchMovementMode.Thumbstick
+Enum.DevTouchMovementMode.Thumbpad
+Enum.TouchMovementMode.Thumbpad
+Enum.DevTouchMovementMode.DPad
+Enum.TouchMovementMode.DPad
+Enum.HumanoidStateType.Swimming
+Enum.DevTouchMovementMode.Scriptable
+Enum.RenderPriority.Input
+Enum.UserInputType.None
+ControlModule
+Enum.ChatCallbackType.OnCreatingChatWindow
+Enum.UserInputType.Focus
+ChatCallbackType
+ChatWindow
+Chat
+GetInitDataRequest
+SayMessageRequest
+OnMainChannelSet
+OnUnmuted
+OnMuted
+OnChannelLeft
+OnChannelJoined
+OnNewSystemMessage
+OnMessageDoneFiltering
+OnNewMessage
+LocalizationService
+ChatLocalization
+TextService
+Connection
+Connection
+Connection
+Connection
+Connection
+Connection
+Connection
+Enum.TextYAlignment.Top
+Connection
+Connection
+Util
+MessageCreatorModules
+DefaultChatSystemChatEvents
+Enum.SpecialKey.ChatHotkey
+SpecialKey
+Enum.CoreGuiType.Chat
+CoreGuiType
+Connection
+Connection
+Connection
+Connection
+Connection
+Connection
+Connection
+ChatMain
+Event
+Enum.UserInputState.Cancel
+Enum.ComputerMovementMode.Default
+Enum.DevComputerMovementMode.UserChoice
+Enum.Font.SourceSansBold
+ChatSettings
+Chat
+Enum.KeyCode.Thumbstick1
+Enum.KeyCode.DPadDown
+Enum.KeyCode.DPadUp
+Enum.KeyCode.DPadRight
+Enum.KeyCode.DPadLeft
+Enum.KeyCode.ButtonSelect
+Enum.KeyCode.ButtonStart
+Enum.KeyCode.ButtonL2
+Enum.KeyCode.ButtonR2
+Enum.KeyCode.ButtonL1
+Enum.KeyCode.ButtonR1
+Enum.KeyCode.ButtonB
+Enum.KeyCode.ButtonA
+Enum.KeyCode.ButtonY
+Enum.KeyCode.ButtonX
+Enum.KeyCode.World95
+Enum.KeyCode.World94
+Enum.KeyCode.World93
+Enum.KeyCode.World92
+Enum.KeyCode.World91
+Enum.KeyCode.World90
+Enum.KeyCode.World89
+Enum.KeyCode.World88
+Enum.KeyCode.World87
+Enum.KeyCode.World86
+Enum.KeyCode.World85
+Enum.KeyCode.World84
+Enum.KeyCode.World83
+Enum.KeyCode.World82
+Enum.KeyCode.World81
+Enum.KeyCode.World80
+Enum.KeyCode.World79
+Enum.KeyCode.World78
+Enum.KeyCode.World77
+Enum.KeyCode.World76
+Enum.KeyCode.World75
+Enum.KeyCode.World74
+Enum.KeyCode.World73
+Enum.KeyCode.World72
+Enum.KeyCode.World71
+Enum.KeyCode.World70
+Enum.KeyCode.World69
+Enum.KeyCode.World68
+Enum.KeyCode.World67
+Enum.KeyCode.World66
+Enum.KeyCode.World65
+Enum.KeyCode.World64
+Enum.KeyCode.World63
+Enum.KeyCode.World62
+Enum.KeyCode.World61
+Enum.KeyCode.World60
+Enum.KeyCode.World59
+Enum.KeyCode.World58
+Enum.KeyCode.World57
+Enum.KeyCode.World56
+Enum.KeyCode.World55
+Enum.KeyCode.World54
+Enum.KeyCode.World53
+Enum.KeyCode.World52
+Enum.KeyCode.World51
+Enum.KeyCode.World50
+Enum.KeyCode.World49
+Enum.KeyCode.World48
+Enum.KeyCode.World47
+Enum.KeyCode.World46
+Enum.KeyCode.World45
+Enum.KeyCode.World44
+Enum.KeyCode.World43
+Enum.KeyCode.World42
+Enum.KeyCode.World41
+Enum.KeyCode.World40
+Enum.KeyCode.World39
+Enum.KeyCode.World38
+Enum.KeyCode.World37
+Enum.KeyCode.World36
+Enum.KeyCode.World35
+Enum.KeyCode.World34
+Enum.KeyCode.World33
+Enum.KeyCode.World32
+Enum.KeyCode.World31
+Enum.KeyCode.World30
+Enum.KeyCode.World29
+Enum.KeyCode.World28
+Enum.KeyCode.World27
+Enum.KeyCode.World26
+Enum.KeyCode.World25
+Enum.KeyCode.World24
+Enum.KeyCode.World23
+Enum.KeyCode.World22
+Enum.KeyCode.World21
+Enum.KeyCode.World20
+Enum.KeyCode.World19
+Enum.KeyCode.World18
+Enum.KeyCode.World17
+Enum.KeyCode.World16
+Enum.KeyCode.World15
+Enum.KeyCode.World14
+Enum.KeyCode.World13
+Enum.KeyCode.World12
+Enum.KeyCode.World11
+Enum.KeyCode.World10
+Enum.KeyCode.World9
+Enum.KeyCode.World8
+Enum.KeyCode.World7
+Enum.KeyCode.World6
+Enum.KeyCode.World5
+Enum.KeyCode.World4
+Enum.KeyCode.World3
+Enum.KeyCode.World2
+Enum.KeyCode.World1
+Enum.KeyCode.World0
+Enum.KeyCode.F15
+Enum.KeyCode.F14
+Enum.KeyCode.F13
+Enum.KeyCode.F12
+Enum.KeyCode.F11
+Enum.KeyCode.F10
+Enum.KeyCode.F9
+Enum.KeyCode.F8
+Enum.KeyCode.F7
+Enum.KeyCode.F6
+Enum.KeyCode.F5
+Enum.KeyCode.F4
+Enum.KeyCode.F3
+Enum.KeyCode.F2
+Enum.KeyCode.F1
+Enum.KeyCode.Undo
+Enum.KeyCode.Euro
+Enum.KeyCode.Power
+Enum.KeyCode.Menu
+Enum.KeyCode.Break
+Enum.KeyCode.SysReq
+Enum.KeyCode.Print
+Enum.KeyCode.Help
+Enum.KeyCode.Compose
+Enum.KeyCode.Mode
+Enum.KeyCode.RightSuper
+Enum.KeyCode.LeftSuper
+Enum.KeyCode.ScrollLock
+Enum.KeyCode.NumLock
+Enum.KeyCode.CapsLock
+Enum.KeyCode.RightControl
+Enum.KeyCode.LeftControl
+Enum.KeyCode.RightAlt
+Enum.KeyCode.LeftAlt
+Enum.KeyCode.RightMeta
+Enum.KeyCode.LeftMeta
+Enum.KeyCode.PageDown
+Enum.KeyCode.PageUp
+Enum.KeyCode.End
+Enum.KeyCode.Home
+Enum.KeyCode.Insert
+Enum.KeyCode.Down
+Enum.KeyCode.Up
+Enum.KeyCode.KeypadEquals
+Enum.KeyCode.KeypadEnter
+Enum.KeyCode.KeypadPlus
+Enum.KeyCode.KeypadMinus
+Enum.KeyCode.KeypadMultiply
+Enum.KeyCode.KeypadDivide
+Enum.KeyCode.KeypadPeriod
+Enum.KeyCode.KeypadNine
+Enum.KeyCode.KeypadEight
+Enum.KeyCode.KeypadSeven
+Enum.KeyCode.KeypadSix
+Enum.KeyCode.KeypadFive
+Enum.KeyCode.KeypadFour
+Enum.KeyCode.KeypadThree
+Enum.KeyCode.KeypadTwo
+Enum.KeyCode.KeypadOne
+Enum.KeyCode.KeypadZero
+Enum.KeyCode.Delete
+Enum.KeyCode.Tilde
+Enum.KeyCode.RightCurly
+Enum.KeyCode.Pipe
+Enum.KeyCode.LeftCurly
+Enum.KeyCode.Z
+Enum.KeyCode.Y
+Enum.KeyCode.X
+Enum.KeyCode.W
+Enum.KeyCode.V
+Enum.KeyCode.U
+Enum.KeyCode.T
+Enum.KeyCode.S
+Enum.KeyCode.R
+Enum.KeyCode.Q
+Enum.KeyCode.P
+Enum.KeyCode.N
+Enum.KeyCode.M
+Enum.KeyCode.L
+Enum.KeyCode.K
+Enum.KeyCode.J
+Enum.KeyCode.H
+Enum.KeyCode.G
+Enum.KeyCode.F
+Enum.KeyCode.E
+Enum.KeyCode.D
+Enum.KeyCode.C
+Enum.KeyCode.B
+Enum.KeyCode.A
+Enum.KeyCode.Backquote
+Enum.KeyCode.Underscore
+Enum.KeyCode.Caret
+Enum.KeyCode.RightBracket
+Enum.KeyCode.BackSlash
+Enum.KeyCode.LeftBracket
+Enum.KeyCode.At
+Enum.KeyCode.Question
+Enum.KeyCode.GreaterThan
+Enum.KeyCode.Equals
+Enum.KeyCode.LessThan
+Enum.KeyCode.Semicolon
+Enum.KeyCode.Colon
+Enum.KeyCode.Nine
+Enum.KeyCode.Eight
+Enum.KeyCode.Seven
+Enum.KeyCode.Six
+Enum.KeyCode.Five
+Enum.KeyCode.Four
+Enum.KeyCode.Three
+Enum.KeyCode.Two
+Enum.KeyCode.One
+Enum.KeyCode.Zero
+Enum.KeyCode.Slash
+Enum.KeyCode.Period
+Enum.KeyCode.Minus
+Enum.KeyCode.Comma
+Enum.KeyCode.Plus
+Enum.KeyCode.Asterisk
+Enum.KeyCode.RightParenthesis
+Enum.KeyCode.LeftParenthesis
+Enum.KeyCode.Quote
+Enum.KeyCode.Ampersand
+Enum.KeyCode.Percent
+Enum.KeyCode.Dollar
+Enum.KeyCode.Hash
+Enum.KeyCode.QuotedDouble
+Enum.KeyCode.Space
+Enum.KeyCode.Escape
+Enum.KeyCode.Pause
+Enum.KeyCode.Return
+Enum.KeyCode.Clear
+Enum.KeyCode.Tab
+Enum.KeyCode.Backspace
+Enum.KeyCode.Unknown
+ChatScript
+Event
+Connection
+Enum.HumanoidStateType.RunningNoPhysics
+Enum.HumanoidStateType.Seated
+Enum.ContextActionResult.Sink
+Enum.ControlMode.MouseLockSwitch
+ControlMode
+Enum.DevComputerMovementMode.Scriptable
+DevComputerMovementMode
+Enum.KeyCode.RightShift
+Enum.KeyCode.LeftShift
+MouseLockController
+VehicleCameraCore
+MessageLogDisplay
+VehicleCamera
+ObjectPool
+LegacyCamera
+OrbitalCamera
+PlayerGui
+TweenService
+Enum.EasingDirection.Out
+EasingDirection
+Enum.EasingStyle.Quad
+EasingStyle
+Enum.Font.Gotham
+Enum.TextYAlignment.Center
+TextYAlignment
+Enum.TextXAlignment.Left
+TextXAlignment
+Enum.Font.GothamSemibold
+Font
+Enum.ScaleType.Slice
+ScaleType
+Enum.ZIndexBehavior.Sibling
+ZIndexBehavior
+Enum.ChatCallbackType.OnClientFormattingMessage
+CameraUI
+Instance
+Enum.MouseBehavior.LockCurrentPosition
+CameraToggleStateController
+MessageLabelCreator
+Enum.Font.SourceSans
+0, 0.200000003
+0, 0.400000006
+0, -0.400000006
+-0.400000006, 0
+0.400000006, 0
+ChannelsTab
+Enum.EasingDirection.In
+Enum.SizeConstraint.RelativeXY
+Enum.SizeConstraint.RelativeYY
+SizeConstraint
+VehicleController
+TouchJump
+Camera
+Popper
+ZoomController
+Enum.HumanoidStateType.Running
+Enum.HumanoidStateType.Landed
+Animation1
+Enum.UserCFrame.Head
+UserCFrame
+Enum.HumanoidStateType.Freefall
+Enum.HumanoidStateType.Jumping
+Enum.RotationType.MovementRelative
+Enum.RotationType.CameraRelative
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+6, 8
+SystemMessage
+Enum.ContextActionPriority.Low
+FreecamScript
+LocalScript
+0, 0
+Handle
+0, 0
+0, 0
+1920, 1017
+0, 0
+0, 0
+0, 0
+0, 0
+WhisperMessage
+0, 0
+0, 0
+0, 0
+Connection
+Connection
+Connection
+Connection
+Connection
+Connection
+ChatBubble
+Connection
+ChatBubble
+ChatBubble
+Connection
+UnknownMessage
+Connection
+ChatBubble
+0, 0
+ChatBubble
+ChatBubble
+0, 0
+0, 0
+ChatBubble
+0, 0
+ChatBubble
+ChatBubble
+0, 0
+0, 0
+ChatBubble
+0, 0
+ChatBubble
+ChatBubble
+BubbleChat
+Enum.FontSize.Size24
+FontSize
+Enum.ChatColor.Red
+Enum.ChatColor.Green
+Enum.ChatColor.Blue
+ChatColor
+Enum.EasingStyle.Elastic
+Enum.EasingStyle.Bounce
+Enum.SizeConstraint.RelativeXX
+BubbleChat
+1, 1
+0, 0
+Enum.Material.Air
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+1920, 1017
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+Connection
+Connection
+0, 0
+Animation2
+0, 0
+0, 0
+0, 0
+0, 0
+0, 0
+Event
+Event
+Event
+Event
+Event
+Event
+Event
+Event
+Event
+0, 0
+0, 0
+1, 1
+0, 0
+Event
+Event
+Event
+0, 0
+Instance
+0, 0
+0, 0
+0, 0
+ArrowLabel
+PageRightButton
+0, 0
+ArrowLabel
+PageLeftButton
+0, 0
+0, 0
+LeaveTarget
+TextLabel
+0, 0
+Animation1
+0, 0
+LeaveConfirmationFrame
+0, 0
+ScrollerFrame
+ScrollerSizer
+0, 0
+Frame
+Connection
+Connection
+Connection
+Connection
+Connection
+Enum.SortOrder.LayoutOrder
+TextLabel
+MessageMode
+ChatBar
+0, 0
+BoxFrame
+Frame
+1, 1
+0, 0
+0, 0
+Connection
+Connection
+0, 0
+0, 0
+0, 0
+0, 0
+ImageLabel
+0, 0
+0, 0
+SortOrder
+ImageButton
+ChatChannelParentFrame
+ChannelsBarParentFrame
+ChatBarParentFrame
+Frame
+WalkAnim
+Event
+0, 0
+ClearMessages
+Team
+GetVersion
+PlayEmote
+DeveloperConsole
+SwallowGuestChat
+SwitchChannel
+0, 0
+0, 0
+0, 0
+UIListLayout
+Scroller
+Frame_MessageLogDisplay
+1, 1
+CommandProcessor
+Enum.Font.SourceSansItalic
+Connection
+MeCommandMessage
+SetCoreMessage
+WelcomeMessage
+DefaultChatMessage
